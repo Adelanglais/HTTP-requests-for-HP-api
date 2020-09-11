@@ -10,11 +10,11 @@ virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-#Usage
+# Usage
 ```python
 pythonn3 getSpells.py # returns dictionnaire des sortilèges
 ```
-#Quit Virtualenv
+# Quit Virtualenv
 ```bash
 deactivate
 ``` 
